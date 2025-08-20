@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\models\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\models\\notemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|c:\\users\\ssanstar\\desktop\\company_projects\\personal\\noteapp\\noteapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F4F83B-2BEB-4175-9E8E-B0B37CF2DA7B}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NoteApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NoteApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T05:50:27.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NoteApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T05:35:36.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Repositories\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Repositories\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Repositories\\NoteRepository.cs",
+              "RelativeToolTip": "NoteApp\\Repositories\\NoteRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:47:53.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NoteModel.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Models\\NoteModel.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Models\\NoteModel.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Models\\NoteModel.cs",
+              "RelativeToolTip": "NoteApp\\Models\\NoteModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:46:23.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "NoteApp\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T14:55:26.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "NoteApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:56:02.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Services\\JwtService.cs",
+              "RelativeToolTip": "NoteApp\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T03:53:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Program.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Program.cs",
+              "RelativeToolTip": "NoteApp\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T15:56:36.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "NoteApp\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA9wCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:54:54.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Models\\UserModel.cs",
+              "RelativeToolTip": "NoteApp\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T03:59:08.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\appsettings.json",
+              "RelativeDocumentMoniker": "NoteApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\appsettings.json",
+              "RelativeToolTip": "NoteApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T16:36:41.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "NoteApp\\Data\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\ssanstar\\Desktop\\Company_Projects\\Personal\\NoteApp\\NoteApp\\Data\\DapperContext.cs",
+              "RelativeToolTip": "NoteApp\\Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:12:54.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
